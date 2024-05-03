@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Projects\\Metigator\\#009 OOP - Methods in C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp1\\BankingProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankingProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp1\\BankingProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp1\\BankingProgram.cs",
+              "ToolTip": "D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp1\\BankingProgram.cs",
+              "RelativeToolTip": "..\\..\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp1\\BankingProgram.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:17:12.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeePayrollSystem.csproj",
+              "DocumentMoniker": "D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollSystem.csproj",
+              "RelativeDocumentMoniker": "..\\..\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollSystem.csproj",
+              "ToolTip": "D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollSystem.csproj",
+              "RelativeToolTip": "..\\..\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T23:17:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeePayrollProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollProgram.cs",
+              "ToolTip": "D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollProgram.cs",
+              "RelativeToolTip": "..\\..\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:15:27.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

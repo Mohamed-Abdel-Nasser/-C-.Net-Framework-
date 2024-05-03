@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVRjYdrWUHzd8zGgEkLXGAtEW6twd8ePlFBgIL2Iz/C4AUDjzD6tLCU7CkHEDZ9wdVY1T6BNPd0U5H10nk4ESw==",
+  "success": true,
+  "projectFilePath": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field & Constant in C#\\ConsoleApp1\\BankingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

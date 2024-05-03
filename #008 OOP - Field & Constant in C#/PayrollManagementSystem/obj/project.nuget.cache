@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qGT+0V9HO8H7avVhqBqLAZYvbgUubsdswHaqy4BMdIRe2/a7tQ4WonX05m4Siz+CMrxgBa8R5G+W+r4uAow+Jg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field & Constant in C#\\ConsoleApp4\\PayrollManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

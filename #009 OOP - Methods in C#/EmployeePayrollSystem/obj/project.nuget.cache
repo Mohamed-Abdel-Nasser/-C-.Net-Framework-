@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6kW52lVmeD8SGWrycnp49jCFvbCOBGsBguZe0QQqXIeJgd93DONcOe4pDAsv98J0iQvkZrciA7gOZRjjdjWAA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\GitHube C# Projects\\C-.Net-Framework\\#009 OOP - Methods in C#\\ConsoleApp2\\EmployeePayrollSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
