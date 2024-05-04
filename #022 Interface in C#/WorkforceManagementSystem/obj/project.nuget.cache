@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNyWv0jJtcqpernDL2Ur0PJl9SNzPU0MCtnn/HIyKGjWH+calI/n2nPu0uY9Y1Wc2SCe85gVT4y0/XI1zpOM2A==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#022 Interface in C#\\ConsoleApp5\\WorkforceManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

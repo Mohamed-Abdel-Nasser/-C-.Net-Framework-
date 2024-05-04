@@ -1,0 +1,14 @@
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+C:\C# Projects\Metigator\C#_Lesson_#022 Interface in C#\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll
