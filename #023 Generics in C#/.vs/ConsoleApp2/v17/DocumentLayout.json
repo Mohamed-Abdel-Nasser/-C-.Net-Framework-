@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C# Projects\\Metigator\\#023 Generics in C#\\",
+  "WorkspaceRootPath": "D:\\C# Projects\\GitHube C# Projects\\-C-.Net-Framework-\\#023 Generics in C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2578C6C9-E23B-427A-BBBA-887F6BB220A6}|ConsoleApp2.csproj|d:\\c# projects\\metigator\\#023 generics in c#\\#023 generics in c#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2578C6C9-E23B-427A-BBBA-887F6BB220A6}|ConsoleApp2.csproj|d:\\c# projects\\githube c# projects\\-c-.net-framework-\\#023 generics in c#\\#023 generics in c#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2578C6C9-E23B-427A-BBBA-887F6BB220A6}|ConsoleApp2.csproj|solutionrelative:#023 generics in c#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "#023 Generics in C#.cs",
-              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#023 Generics in C#\\#023 Generics in C#.cs",
+              "DocumentMoniker": "D:\\C# Projects\\GitHube C# Projects\\-C-.Net-Framework-\\#023 Generics in C#\\#023 Generics in C#.cs",
               "RelativeDocumentMoniker": "#023 Generics in C#.cs",
-              "ToolTip": "D:\\C# Projects\\Metigator\\#023 Generics in C#\\#023 Generics in C#.cs",
+              "ToolTip": "D:\\C# Projects\\GitHube C# Projects\\-C-.Net-Framework-\\#023 Generics in C#\\#023 Generics in C#.cs",
               "RelativeToolTip": "#023 Generics in C#.cs",
-              "ViewState": "AQIAAFAAAACAMjMzMzMLwGIAAAARAAAA",
+              "ViewState": "AQIAACIAAABAzszMzMw7wGIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T18:28:54.398Z",
               "EditorCaption": ""

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Projects\\Metigator\\#013 Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D8B54B-3860-4335-94FC-B963BE2B9AC8}|ConsoleApp4\\ConsoleApp4.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp4\\stockpricealertprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D8B54B-3860-4335-94FC-B963BE2B9AC8}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\stockpricealertprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D14DC73-CE1F-42E1-9332-AD033E389B92}|ConsoleApp6\\RectangleGeometrySystem.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp6\\rectanglegeometrysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D14DC73-CE1F-42E1-9332-AD033E389B92}|ConsoleApp6\\RectangleGeometrySystem.csproj|solutionrelative:consoleapp6\\rectanglegeometrysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482B054C-0813-40CD-8F62-E35A71A38B19}|ConsoleApp2\\EventNotificationSystem.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp2\\eventnotificationprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482B054C-0813-40CD-8F62-E35A71A38B19}|ConsoleApp2\\EventNotificationSystem.csproj|solutionrelative:consoleapp2\\eventnotificationprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EC2E9-3BF3-4684-A6DF-BB6187E5FF9F}|ConsoleApp5\\SalesReportGeneratorSystem.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp5\\salesreportgeneratorsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{291EC2E9-3BF3-4684-A6DF-BB6187E5FF9F}|ConsoleApp5\\SalesReportGeneratorSystem.csproj|solutionrelative:consoleapp5\\salesreportgeneratorsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383A3C3-FFBC-4A7A-8E4E-DDD22E6C9BE8}|ConsoleApp7\\ConsoleApp7.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp7\\hrmanagementprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383A3C3-FFBC-4A7A-8E4E-DDD22E6C9BE8}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\hrmanagementprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383A3C3-FFBC-4A7A-8E4E-DDD22E6C9BE8}|ConsoleApp7\\HRManagementSystem.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp7\\hrmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A383A3C3-FFBC-4A7A-8E4E-DDD22E6C9BE8}|ConsoleApp7\\HRManagementSystem.csproj|solutionrelative:consoleapp7\\hrmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291EC2E9-3BF3-4684-A6DF-BB6187E5FF9F}|ConsoleApp5\\ConsoleApp5.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp5\\salesreportprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291EC2E9-3BF3-4684-A6DF-BB6187E5FF9F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\salesreportprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEDCB0C-7FA2-4768-B9D0-D0417806D1E0}|ConsoleApp3\\ConsoleApp3.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp3\\eventsubscriberprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEDCB0C-7FA2-4768-B9D0-D0417806D1E0}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\eventsubscriberprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D14DC73-CE1F-42E1-9332-AD033E389B92}|ConsoleApp6\\ConsoleApp6.csproj|d:\\c# projects\\metigator\\#013 delegate\\consoleapp6\\rectanglegeometryprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D14DC73-CE1F-42E1-9332-AD033E389B92}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\rectanglegeometryprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockPriceAlertProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp4\\StockPriceAlertProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\StockPriceAlertProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp4\\StockPriceAlertProgram.cs",
+              "RelativeToolTip": "ConsoleApp4\\StockPriceAlertProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:12:54.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesReportGeneratorSystem.csproj",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp5\\SalesReportGeneratorSystem.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp5\\SalesReportGeneratorSystem.csproj",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp5\\SalesReportGeneratorSystem.csproj",
+              "RelativeToolTip": "ConsoleApp5\\SalesReportGeneratorSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T18:12:16.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventNotificationProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp2\\EventNotificationProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\EventNotificationProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp2\\EventNotificationProgram.cs",
+              "RelativeToolTip": "ConsoleApp2\\EventNotificationProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:12:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HRManagementProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp7\\HRManagementProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\HRManagementProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp7\\HRManagementProgram.cs",
+              "RelativeToolTip": "ConsoleApp7\\HRManagementProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:08:54.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RectangleGeometrySystem.csproj",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp6\\RectangleGeometrySystem.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp6\\RectangleGeometrySystem.csproj",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp6\\RectangleGeometrySystem.csproj",
+              "RelativeToolTip": "ConsoleApp6\\RectangleGeometrySystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T17:31:07.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HRManagementSystem.csproj",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp7\\HRManagementSystem.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp7\\HRManagementSystem.csproj",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp7\\HRManagementSystem.csproj",
+              "RelativeToolTip": "ConsoleApp7\\HRManagementSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T18:10:40.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesReportProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp5\\SalesReportProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\SalesReportProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp5\\SalesReportProgram.cs",
+              "RelativeToolTip": "ConsoleApp5\\SalesReportProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:34:13.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventSubscriberProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp3\\EventSubscriberProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\EventSubscriberProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp3\\EventSubscriberProgram.cs",
+              "RelativeToolTip": "ConsoleApp3\\EventSubscriberProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:31:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RectangleGeometryProgram.cs",
+              "DocumentMoniker": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp6\\RectangleGeometryProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\RectangleGeometryProgram.cs",
+              "ToolTip": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp6\\RectangleGeometryProgram.cs",
+              "RelativeToolTip": "ConsoleApp6\\RectangleGeometryProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:20:34.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

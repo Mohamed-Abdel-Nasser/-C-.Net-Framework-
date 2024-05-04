@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uoeD4Y7hP13gVm3XY+tkmnbE/sJg3egAi5RD5+ADUYMykYI9rmhMy//lkzZ3i0LBIZSu3WG2LGW0C0qzQKpJ0w==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Metigator\\#013 Delegate\\ConsoleApp1\\MathDelegateApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
