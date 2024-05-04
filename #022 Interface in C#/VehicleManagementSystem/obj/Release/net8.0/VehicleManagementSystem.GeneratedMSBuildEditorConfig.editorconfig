@@ -1,4 +1,8 @@
 is_global = true
+build_property.EnableAotAnalyzer = true
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -8,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VehicleManagementSystem
-build_property.ProjectDir = D:\C# Projects\Metigator\#022 Interface in C#\ConsoleApp1\
+build_property.ProjectDir = D:\C# Projects\GitHube C# Projects\-C-.Net-Framework-\#022 Interface in C#\VehicleManagementSystem\
 build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false

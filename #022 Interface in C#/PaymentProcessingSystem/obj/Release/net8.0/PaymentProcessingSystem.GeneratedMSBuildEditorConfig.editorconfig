@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PaymentProcessingSystem
-build_property.ProjectDir = D:\C# Projects\Metigator\#022 Interface in C#\ConsoleApp3\
+build_property.ProjectDir = D:\C# Projects\GitHube C# Projects\-C-.Net-Framework-\#022 Interface in C#\PaymentProcessingSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
