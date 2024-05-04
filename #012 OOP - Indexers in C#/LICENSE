@@ -1,0 +1,8 @@
+Object-Oriented Programming (OOP) - INDEXERS.
+
+WHAT IS INDEXERS: Explanation of what indexers are in OOP.
+SCENARIOS WHEN TO USE: Different scenarios where indexers are useful.
+INDEXER SYNTAX: The syntax for defining indexers.
+SINGLE DIMENSIONAL MAP: How indexers map to a single dimension.
+MULTI-DIMENSIONAL MAPS: Indexers mapping to multiple dimensions.
+SUDUKO EXAMPLE: An example of using indexers in a Sudoku game.

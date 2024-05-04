@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqCKb+EkwL5nXwwAC8mu05SuTg9ljK0imdvyYKqCUM2NGnJlep6M083FQMpyfl/29NpsFC7oN5KksjMcSUoQPQ==",
+  "success": true,
+  "projectFilePath": "C:\\C# Projects\\Metigator\\#021 Inheritance in C#\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

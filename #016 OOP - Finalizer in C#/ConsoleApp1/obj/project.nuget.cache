@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNb+ALT75s648RWwiOThB4n2XRomssrJdt+1NKh8KhgAcZ6hv4upHi/CyaAiY0AOMeLP8ExRTrq9jv74DKMPfQ==",
+  "success": true,
+  "projectFilePath": "C:\\C# Projects\\Metigator\\#016 OOP - Finalizer in C#\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\kayan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
