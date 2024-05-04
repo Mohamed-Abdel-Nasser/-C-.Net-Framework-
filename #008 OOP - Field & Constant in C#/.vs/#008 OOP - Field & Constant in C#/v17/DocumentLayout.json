@@ -1,30 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\",
+  "WorkspaceRootPath": "D:\\C# Projects\\GitHube C# Projects\\-C-.Net-Framework-\\#008 OOP - Field \u0026 Constant in C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A5C05D2-2B70-4BA6-9C41-6DEED0BDAF1E}|ConsoleApp4\\ConsoleApp4.csproj|d:\\githube c# projects\\c-.net-framework\\#008 oop - field \u0026 constant in c#\\consoleapp4\\payrollmanagementprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A5C05D2-2B70-4BA6-9C41-6DEED0BDAF1E}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\payrollmanagementprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp4\\PayrollManagementprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAFB956E-918F-4A25-9E7C-2CA430663C7C}|ConsoleApp5\\ConsoleApp5.csproj|d:\\githube c# projects\\c-.net-framework\\#008 oop - field \u0026 constant in c#\\consoleapp5\\simplebankingsystemprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFB956E-918F-4A25-9E7C-2CA430663C7C}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\simplebankingsystemprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp5\\SimpleBankingSystemProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9C4A7D7-C0B8-49FB-AF65-86746A4F5D4B}|ConsoleApp3\\ConsoleApp3.csproj|d:\\githube c# projects\\c-.net-framework\\#008 oop - field \u0026 constant in c#\\consoleapp3\\employeepayrollprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C4A7D7-C0B8-49FB-AF65-86746A4F5D4B}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\employeepayrollprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp3\\EmployeePayrollProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{785B4F43-7E74-485E-846F-B814B595CD2A}|ConsoleApp2\\ConsoleApp2.csproj|d:\\githube c# projects\\c-.net-framework\\#008 oop - field \u0026 constant in c#\\consoleapp2\\circlepropertiescalculatorprogramn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785B4F43-7E74-485E-846F-B814B595CD2A}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\circlepropertiescalculatorprogramn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3CE6A9-6C36-480F-8FE1-CD0D106753A3}|ConsoleApp1\\BankingSystem.csproj|d:\\githube c# projects\\c-.net-framework\\#008 oop - field \u0026 constant in c#\\consoleapp1\\bankingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3CE6A9-6C36-480F-8FE1-CD0D106753A3}|ConsoleApp1\\BankingSystem.csproj|solutionrelative:consoleapp1\\bankingprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3CE6A9-6C36-480F-8FE1-CD0D106753A3}|ConsoleApp1\\BankingSystem.csproj|d:\\githube c# projects\\c-.net-framework\\#008 oop - field \u0026 constant in c#\\consoleapp1\\bankingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ED3CE6A9-6C36-480F-8FE1-CD0D106753A3}|ConsoleApp1\\BankingSystem.csproj|solutionrelative:consoleapp1\\bankingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +28,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PayrollManagementprogram.cs",
-              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp4\\PayrollManagementprogram.cs",
-              "RelativeDocumentMoniker": "ConsoleApp4\\PayrollManagementprogram.cs",
-              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp4\\PayrollManagementprogram.cs",
-              "RelativeToolTip": "ConsoleApp4\\PayrollManagementprogram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:10:22.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimpleBankingSystemProgram.cs",
-              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp5\\SimpleBankingSystemProgram.cs",
-              "RelativeDocumentMoniker": "ConsoleApp5\\SimpleBankingSystemProgram.cs",
-              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp5\\SimpleBankingSystemProgram.cs",
-              "RelativeToolTip": "ConsoleApp5\\SimpleBankingSystemProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:09:43.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeePayrollProgram.cs",
-              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp3\\EmployeePayrollProgram.cs",
-              "RelativeDocumentMoniker": "ConsoleApp3\\EmployeePayrollProgram.cs",
-              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp3\\EmployeePayrollProgram.cs",
-              "RelativeToolTip": "ConsoleApp3\\EmployeePayrollProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:09:12.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CirclePropertiesCalculatorProgramn.cs",
-              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
-              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
-              "RelativeToolTip": "ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:08:40.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BankingProgram.cs",
-              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingProgram.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\BankingProgram.cs",
-              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingProgram.cs",
-              "RelativeToolTip": "ConsoleApp1\\BankingProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T23:08:36.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BankingSystem",
-              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingSystem.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\BankingSystem.csproj",
-              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingSystem.csproj",
-              "RelativeToolTip": "ConsoleApp1\\BankingSystem.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-03T23:08:33.289Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -121,6 +37,81 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayrollManagementprogram.cs",
+              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp4\\PayrollManagementprogram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp4\\PayrollManagementprogram.cs",
+              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp4\\PayrollManagementprogram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp4\\PayrollManagementprogram.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:10:22.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleBankingSystemProgram.cs",
+              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp5\\SimpleBankingSystemProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp5\\SimpleBankingSystemProgram.cs",
+              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp5\\SimpleBankingSystemProgram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp5\\SimpleBankingSystemProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:09:43.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeePayrollProgram.cs",
+              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp3\\EmployeePayrollProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp3\\EmployeePayrollProgram.cs",
+              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp3\\EmployeePayrollProgram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp3\\EmployeePayrollProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:09:12.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CirclePropertiesCalculatorProgramn.cs",
+              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
+              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp2\\CirclePropertiesCalculatorProgramn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:08:40.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankingProgram.cs",
+              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingProgram.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingProgram.cs",
+              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingProgram.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:08:36.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankingSystem.csproj",
+              "DocumentMoniker": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingSystem.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingSystem.csproj",
+              "ToolTip": "D:\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingSystem.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\GitHube C# Projects\\C-.Net-Framework\\#008 OOP - Field \u0026 Constant in C#\\ConsoleApp1\\BankingSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T23:08:33.289Z"
             }
           ]
         }
