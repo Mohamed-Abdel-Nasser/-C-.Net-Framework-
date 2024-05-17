@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAStack", "CAStack\CAStack.csproj", "{8D6C8F4A-2E68-4E41-AC37-0DA97ADBD88B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAStack", "CAStack\CAStack.csproj", "{8D6C8F4A-2E68-4E41-AC37-0DA97ADBD88B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAQueue", "CAQueue\CAQueue.csproj", "{56D6B433-FB15-4757-92DF-B749FD4A4045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAQueue", "CAQueue\CAQueue.csproj", "{56D6B433-FB15-4757-92DF-B749FD4A4045}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerServiceQueueSystem", "ConsoleApp1\CustomerServiceQueueSystem.csproj", "{A8E8FDCA-8182-4C95-8431-9D0A01A4CB8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{C2BDC3EA-35DF-49DE-B39F-871AC84089AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{56D6B433-FB15-4757-92DF-B749FD4A4045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56D6B433-FB15-4757-92DF-B749FD4A4045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56D6B433-FB15-4757-92DF-B749FD4A4045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E8FDCA-8182-4C95-8431-9D0A01A4CB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E8FDCA-8182-4C95-8431-9D0A01A4CB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E8FDCA-8182-4C95-8431-9D0A01A4CB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E8FDCA-8182-4C95-8431-9D0A01A4CB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BDC3EA-35DF-49DE-B39F-871AC84089AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BDC3EA-35DF-49DE-B39F-871AC84089AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BDC3EA-35DF-49DE-B39F-871AC84089AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BDC3EA-35DF-49DE-B39F-871AC84089AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
